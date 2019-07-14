@@ -27,6 +27,6 @@ Note: Follow the instructions to program the PD Buddy Sink for 5V 3A here otherw
 
 [You can buy the PD Buddy here](https://www.tindie.com/products/clarahobbs/pd-buddy-sink/) Note: I have no affiliation with Clara Hobbs and his PD Buddy product.
 
-Under Development with the assistance of [Luke Fisher at Luke Fisher Designs](https://www.lukefisherdesigns.com), a large chassis that takes a massive battery, in this case a Promate provolta TA-30 30,000mAh. Below is a pitcure of an early prototype.
+Under Development with the assistance of [Luke Fisher at Luke Fisher Designs](https://www.lukefisherdesigns.com), a large chassis that takes a massive battery, in this case a Promate provolta TA-30 30,000mAh. Below is a picture of an early prototype.
 
 <img src="images/standard and large chassis.jpg">
