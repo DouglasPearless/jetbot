@@ -23,7 +23,7 @@ Updated: added a bracket "LCD_Bracket.stl" for a generic 0.96" 128X64 OLED LCD L
 
 <img src="images/LCD_bracket.jpg"> 
 
-Note: Follow the instructions to program the PD Buddy Sink for 5V 3A here otherwise it won't do anything when you plug it in! [PD Buddy Instructions link](https://git.clarahobbs.com/pd-buddy/pd-buddy-firmware/src/branch/1.2/docs/console_config.md)
+Note: Follow the instructions to program the PD Buddy Sink for 5V 3A otherwise it won't do anything when you plug it in! [PD Buddy Instructions link](https://git.clarahobbs.com/pd-buddy/pd-buddy-firmware/src/branch/1.2/docs/console_config.md)
 
 [You can buy the PD Buddy here](https://www.tindie.com/products/clarahobbs/pd-buddy-sink/) Note: I have no affiliation with Clara Hobbs and his PD Buddy product.
 
