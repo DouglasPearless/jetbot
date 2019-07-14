@@ -19,7 +19,7 @@ To get started, read the [JetBot Wiki](https://github.com/NVIDIA-AI-IOT/jetbot/w
 
 [![Analytics](https://ga-beacon.appspot.com/UA-135919510-1/jetbot/README?pixel)](https://github.com/igrigorik/ga-beacon)
 
-Updated: added a bracket "LCD_Bracket.stl" for a generic 0.96" 128X64 OLED LCD LED Display Module For Arduino and also adds a [USB-C PD Buddy Sink](https://hackaday.io/project/20424-pd-buddy-sink).
+Updated: added a bracket "LCD_Bracket.stl" for a generic 0.96" 128X64 OLED LCD LED Display Module For Arduino and also adds a [USB-C PD Buddy Sink](https://hackaday.io/project/20424-pd-buddy-sink).  The two are independent so you can just add the LCD, or the PD Buddy or both.
 
 <img src="images/LCD_bracket.jpg"> 
 
