@@ -25,7 +25,7 @@ Updated: added a bracket "LCD_Bracket.stl" for a generic 0.96" 128X64 OLED LCD L
 
 Note: Follow the instructions to program the PD Buddy Sink for 5V 3A otherwise it won't do anything when you plug it in! [PD Buddy Instructions link](https://git.clarahobbs.com/pd-buddy/pd-buddy-firmware/src/branch/1.2/docs/console_config.md)
 
-[You can buy the PD Buddy here](https://www.tindie.com/products/clarahobbs/pd-buddy-sink/) Note: I have no affiliation with Clara Hobbs and his PD Buddy product.
+[You can buy the PD Buddy here](https://www.tindie.com/products/clarahobbs/pd-buddy-sink/) Note: I have no affiliation with Clara Hobbs and her PD Buddy product.
 
 Under Development with the assistance of [Luke Fisher at Luke Fisher Designs](https://www.lukefisherdesigns.com), a large chassis that takes a massive battery, in this case a Promate provolta TA-30 30,000mAh. Below is a picture of an early prototype.
 
